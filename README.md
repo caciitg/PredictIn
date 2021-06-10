@@ -3,10 +3,10 @@
 ![Screenshot (110)](https://user-images.githubusercontent.com/58565264/119225748-5d63c080-bb23-11eb-9bc3-a6775ed13e5b.png)
 
 Team Members:
-* Shreya Sajal
-* Vineet Agarwal
-* Saman Ghous
-* Siddharth Shankar Pandey
+* [Shreya Sajal](https://github.com/shreyasajal)
+* [Vineet Agarwal](https://github.com/vineet140502)
+* [Saman Ghous](https://github.com/samanghous)
+* [Siddharth Shankar Pandey](https://github.com/sshankar74)
 
 ## Aim:
 Often important linkedin posts by organizations don’t get the required reach due to poor post designing or use of inaccurate community hashtags.Our project, PredictIn aims at solving this problem by predicting a popularity score for a post beforehand and help the organizations in designing the posts in an effective way that maximizes their popularity.
